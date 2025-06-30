@@ -142,7 +142,6 @@ Assesses how much the model's performance degrades when subjected to adversarial
 **2. CLEVER-u Score**  
 Estimates the minimum perturbation required to change the model prediction:
 - **CLEVER-u** ([Weng et al., 2018]): A lower bound on the size of perturbations needed to cause misclassification, serving as a theoretical robustness certificate.  
-*Higher scores indicate stronger local robustness.*
 
 **3. Loss Sensitivity**  
 Evaluates the smoothness of the model’s loss landscape under input perturbations:
