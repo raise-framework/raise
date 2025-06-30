@@ -6,7 +6,6 @@
 - [Metrics](#metrics)
 - [Datasets & Results](#datasets--results)
 - [Installation and Usage](#installation-and-usage)
-- [Contributing and License](#contributing-and-License)
 
 
 ## Overview
