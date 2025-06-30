@@ -36,7 +36,7 @@ The RAISE pipeline consists of four core evaluation modules as follows:
 <details>
 <summary><strong>Explainability</strong></summary>
 
-To evaluate the explainability of each model, we compute the following metrics using the Quantus toolbox:
+To evaluate the explainability of each model, we compute the following metrics using the `Quantus` toolbox:
 
 **1. Complexity**  
 Captures to what extent explanations are concise (i.e., using fewer features to explain a model prediction) - compute the following 2 metrics:
