@@ -51,6 +51,7 @@ Quantifies how well explanations follow the model's predictive behavior (ensurin
 **3. Robustness**
 Measures to what extent explanations are stable when subject to slight perturbations of the input, assuming that model output approximately stayed the same - compute the following metric: 
 - **Local Lipschitz Estimate** (Alvarez-Melis et al., 2018): tests the consistency in the explanation between adjacent examples
+- **Consistency** (Dasgupta et al., 2022): measures the probability that the inputs with the same explanation have the same prediction label
 
 **4. Randomisation**
 Tests to what extent explanations deteriorate as inputs to the evaluation problem e.g., model parameters are increasingly randomised - compute the following 2 metrics:
